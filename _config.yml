@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Abhishek Rishabh"
   avatar           : "profile.png"
-  bio              : 
+  bio              : ""
   location         : 
   employer         :
   email            :
@@ -99,11 +99,11 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :"abhishek-rishabh-96aa179"
-  orcid            : 
+  linkedin         :
+  orcid            : ""
   pinterest        :
   soundcloud       :
-  stackoverflow    : 
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
   twitter          : "AbhiRishabh"
@@ -244,19 +244,17 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 # Plugins
 plugins:
   - jekyll-paginate
-  - jekyll-sitemap
+  
   - jekyll-gist
-  - jekyll-feed
+
   - jekyll-redirect-from
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
-  - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
   - jemoji
 
- 
+
 # Archives
 #  Type
 #  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
