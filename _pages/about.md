@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Welcome, I am Golub Capital Social Impact Fellow in Quantitative Marketing at Kellogg, Northwestern. I am currently on the job market.
+Welcome. I am Golub Capital Social Impact Post Doctoral Fellow in Marketing at Kellogg, Northwestern. 
+I am currently on the job market. 
+Please find my CV here ()
