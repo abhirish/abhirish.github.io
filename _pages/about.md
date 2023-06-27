@@ -17,5 +17,4 @@ I have been extremely fortunate to work with firms working in charitable giving 
 
 Please find my CV [here](http://docs.google.com/gview?url=https://raw.githubusercontent.com/abhirish/abhirish.github.io/master/_pages/CV.pdf). 
 
-Please feel free to reach out to me to talk about research! 
 
